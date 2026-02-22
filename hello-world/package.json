@@ -11,6 +11,6 @@
   "author": "Sushant Sahu <sushant87@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "rimraf": "^3.0.2"
+    "rimraf": "^6.1.3"
   }
 }
